@@ -64,6 +64,6 @@ I'm focusing practice and be familiar with css propierties
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/fmartinmora)
+- Frontend Mentor - [@fmartinmora](https://www.frontendmentor.io/profile/fmartinmora)
 - Twitter - [@fmartinmora](https://www.twitter.com/fmartinmora)
 - Linkedin - [@fredi-martin](https://www.linkedin.com/in/fredi-martin/)
